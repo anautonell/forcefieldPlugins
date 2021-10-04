@@ -13,4 +13,5 @@ Need help? Github isnt our official way to get help, if you wish help please ope
 
 My stats: :partying_face:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15
+
