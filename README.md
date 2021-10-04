@@ -12,6 +12,6 @@ Need help? Github isnt our official way to get help, if you wish help please ope
 - This is made with: [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 My stats: :partying_face:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- Im created by @anautonell
+- 
 
