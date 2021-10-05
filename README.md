@@ -17,3 +17,4 @@ My stats: :partying_face:
 - 🥰 I have my own Website hosted on GitHub Pages!
 
 You can check it out [here!](https://forcefieldplugin.github.io/docs/)
+Also here's another one [here!](https://forcefieldplugin.github.io/welcomed-docs)
