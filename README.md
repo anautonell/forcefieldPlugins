@@ -30,6 +30,6 @@ Add custom title/embeds/description/image and more! Learn more about Welcomed by
 Listen, lag free, easily, secure, youtube videos and songs with a single click!
 
 ### Copyright Information
-(C) PlaynManage Technology (2021-2022)
-(C) Copyright 2021, ForceField is a company of SAFER S.L.
-(C) Copyright 2020-2021, Welcomed is now part of the ForceField Family.
+- (C) PlaynManage Technology (2021-2022)
+- (C) Copyright 2021, ForceField is a company of SAFER S.L.
+- (C) Copyright 2020-2021, Welcomed is now part of the ForceField Family.
