@@ -2,6 +2,7 @@
 - 👀 I’m a cool Security Plugin!
 - 📫 How to reach me? You can reach us on our website (forcefield.ga)
 - :wink: I was created by @anautonell, my owners account is currently unavailable
+- 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their owners.
 
 ! WARNING ! Github is not a official way to get help about ForceField.
 Need help? Github isnt our official way to get help, if you wish help please open a ticket in you're panel.
