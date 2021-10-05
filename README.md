@@ -19,9 +19,17 @@ My stats: :partying_face:
 
 You can check it out [here!](https://forcefieldplugin.github.io/docs/)
 Also here's another one [here!](https://forcefieldplugin.github.io/welcomed-docs)
-
-## PlaynManage Technology
+## Some projects
+Here's a current list of some projects I have made!
+### Welcomed Bot
+Welcomed bot is a welcome bot with a variety of customization with a single click. 
+Add custom title/embeds/description/image and more! Learn more about Welcomed by clicking [here!](https://forcefieldplugin.github.io/welcomed-docs/)
+### PlaynManage Technology
 *= PlaynManage Technology is currently used in this music bot:
 *  [Musicalit](https://musicalit.anautonell.repl.co) (The command is '!yt')
 Listen, lag free, easily, secure, youtube videos and songs with a single click!
+
+### Copyright Information
 (C) PlaynManage Technology (2021-2022)
+(C) Copyright 2021, ForceField is a company of SAFER S.L.
+(C) Copyright 2020-2021, Welcomed is now part of the ForceField Family.
