@@ -16,5 +16,4 @@ My stats: :partying_face:
 - Im created by @anautonell
 - 🥰 I have my own Website hosted on GitHub Pages!
 
-You can check it out [here!](
-
+You can check it out [here!](https://forcefieldplugin.github.io/docs/)
