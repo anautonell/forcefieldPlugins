@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @forcefieldPlugins
-- 👀 I’m a cool Security Plugin!
+- 👀 I’m a cool Security Plugin! 
+- 🥇 I own Playnmanage, a easy way to listen or watch youtube videos on discord with you're freinds*!
 - 📫 How to reach me? You can reach us on our website (forcefield.ga)
 - :wink: I was created by @anautonell, my owners account is currently unavailable
 - 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their owners.
@@ -18,3 +19,7 @@ My stats: :partying_face:
 
 You can check it out [here!](https://forcefieldplugin.github.io/docs/)
 Also here's another one [here!](https://forcefieldplugin.github.io/welcomed-docs)
+
+## Key Knowledge About Me
+*= PlaynManage Technology is currently used in this music bot:
+*  [Musicalit](https://musicalit.anautonell.repl.co)
