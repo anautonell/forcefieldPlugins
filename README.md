@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @forcefieldPlugins
-- 👀 I’m a cool Security Plugin! 
-- 🥇 I own Playnmanage, a easy way to listen or watch youtube videos on discord with you're freinds!
+- 👋 Hi, I’m @anautonell
+- 👀 I’m a lame dev.
+- 🥇 I love to make things better! Im currently making a bot: https://myprotect.xyz
 - 📫 How to reach me? You can reach us on our website (forcefield.ga) or if its a personal thing you can DM me.
-- :wink: I was created by @anautonell, my owners account is currently unavailable
 - 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their owners.
-
-! WARNING ! Github is not a official way to get help about ForceField.
-Need help? Github isnt our official way to get help, if you wish help please open a ticket in you're panel.
+- 
 
 😄 Important Notes About Me
 
@@ -14,7 +11,7 @@ Need help? Github isnt our official way to get help, if you wish help please ope
 - This is made with: [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 My stats: :partying_face:
-- Im created by @anautonell
+- 
 - 🥰 I have my own Website hosted on GitHub Pages!
 
 You can check it out [here!](https://forcefieldplugin.github.io/docs/)
@@ -28,7 +25,10 @@ Add custom title/embeds/description/image and more! Learn more about Welcomed by
 *= PlaynManage Technology is currently used in this music bot:
 *  [Musicalit](https://musicalit.anautonell.repl.co) (The command is '!yt')
 Listen, lag free, easily, secure, youtube videos and songs with a single click!
-
+### Dragyhost Company
+#1 Hosting Company: https://dragyhost.com
+### MyProtect
+Protect your discord seever tosay! https://,yprotect.xyz
 ### Copyright Information
 - (C) PlaynManage Technology (2021-2022)
 - (C) Copyright 2021, ForceField is a company of SAFER S.L.
