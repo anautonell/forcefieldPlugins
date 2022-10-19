@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anautonell
-- 👀 I’m a lame dev.
-- 🥇 I love to make things better! Im currently making a bot: https://myprotect.xyz
-- 📫 How to reach me? DM me through Discord or email me anautonell@outlook.es
-- 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their owners.
+- 👀 I’m a normal dev.
+- 🥇 I love to make things better!
+- 📫 How to reach me? DM me through Discord or email me anautonell06@gmail.com
+- 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their respective owners.
 - 
 
 😄 Important Notes About Me
@@ -13,11 +13,14 @@
 My information: :partying_face:
 - Im here to help.
 - 🥰 Love Discord Bots.
+- Love Wordpress and its variety of plugins!
 
 Here's a current list of some projects I have made!
 
 ### Dragyhost Company
-#1 Hosting Company: https://dragyhost.com
+#1 Hosting Company: https://dragy.host
 
-### MyProtect
+### MyProtect (shutdown)
 Protect your Discord Server today: https://myprotect.xyz
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5FSN2E)
