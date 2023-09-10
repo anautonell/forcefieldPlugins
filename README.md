@@ -3,7 +3,6 @@
 - 🥇 I love to make things better!
 - 📫 How to reach me? DM me through Discord or email me anautonell06@gmail.com
 - 🆒 I may use my account for personal projects! As you can see im trying to host some GitHub bots. Credits to their respective owners.
-- 
 
 😄 Important Notes About Me
 
