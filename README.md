@@ -18,9 +18,22 @@ My information: :partying_face:
 Here's a current list of some projects I have made!
 
 ### Dragyhost Company
-#1 Hosting Company: https://dragy.host
+#1 Hosting Company: https://dragyhost.com
 
 ### MyProtect (shutdown)
 Protect your Discord Server today: https://myprotect.xyz
 
+### Notify360 (Closed Beta)
+A shopify plugin that let's you boost sales, add a form when a product is not available and notify the customer when it is restocked!
+
+### StateManage (2025)
+A place to manage your GTA V and Roblox Roleplay community.
+
+### ClassRel Group (2025)
+A place to manage your classroom, plus device monitoring & internet protection/block.
+
+### RoMarket/Modifyz
+A place to sell digital mods, RoMarket is for ROBLOX mods/assets and Modifyz is for any game mods.
+
+#### Support me?
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5FSN2E)
